@@ -1,1 +1,1 @@
-# tos
+# ZIP Terms of Service
